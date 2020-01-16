@@ -1,0 +1,44 @@
+header{
+	background: #F1D7D1;
+	position: relative;
+	height: 60px;
+	border-radius: 0px 0px 50px 50px;
+	text-align: center;
+	margin: 10px 10px 30px 10px;
+	font-size: 24px;
+	font-weight: bold;
+}
+body{
+	background: #E06F57;
+}
+
+article{
+	background: #C2B6B3;
+	position: relative;
+	height: 100px;
+	text-align: center;
+	font-size: 16px;
+	border-radius: 10px 10px 10px 10px;
+}
+table{
+	align-items: center;
+	text-align: center;
+	min-height: 300px;
+	min-width: 800px;
+	font-size: 16px;
+	background: #C42424;
+	border-radius: 10px 10px 10px 10px;
+}
+button{
+	width: 200px;
+	height: 40px;
+	background: #2F90C0;
+	border-radius: 10px 10px 10px 10px;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+label{
+	font-size: 18px;
+	font-weight: bold;
+}
